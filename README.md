@@ -3,7 +3,7 @@ Arduino utility library with miscellaneous functions
 
 ## Documentation
 
-Doxygen Documentation at [Github Pages](https://acksen.github.io/AcksenUtils/)
+Doxygen Documentation at [Github Pages](https://acksen.github.io/AcksenUtils/docs/html/index.html)
 
 ## Introduction
 
